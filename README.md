@@ -16,3 +16,6 @@ W3 Schools
 https://api.jquery.com/
 Stack Overflow
 amoung other online aides
+
+## Screen Shot 
+<img src="assets/images/weatherDashboard.jpg" alt="dashboard-screenshot">
